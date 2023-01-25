@@ -1,9 +1,0 @@
-0.6
-2017.3
-Oct  4 2017
-20:11:37
-E:/Electrology Course/Vivado/EST2503/lab2_2_seg_dynamic/lab2_2_seg_dynamic.sim/sim_1/behav/xsim/glbl.v,1507081072,verilog,,,,glbl,,,,,,,,
-E:/Electrology Course/Vivado/EST2503/lab2_2_seg_dynamic/lab2_2_seg_dynamic.srcs/sim_1/new/tb_seg_dynamic.v,1666149410,verilog,,,,tb_seg_dynamic,,,,,,,,
-E:/Electrology Course/Vivado/EST2503/lab2_2_seg_dynamic/lab2_2_seg_dynamic.srcs/sources_1/new/data_gen.v,1666148771,verilog,,E:/Electrology Course/Vivado/EST2503/lab2_2_seg_dynamic/lab2_2_seg_dynamic.srcs/sources_1/new/data_show.v,,data_gen,,,,,,,,
-E:/Electrology Course/Vivado/EST2503/lab2_2_seg_dynamic/lab2_2_seg_dynamic.srcs/sources_1/new/data_show.v,1666149243,verilog,,E:/Electrology Course/Vivado/EST2503/lab2_2_seg_dynamic/lab2_2_seg_dynamic.srcs/sources_1/new/seg_dynamic.v,,data_show,,,,,,,,
-E:/Electrology Course/Vivado/EST2503/lab2_2_seg_dynamic/lab2_2_seg_dynamic.srcs/sources_1/new/seg_dynamic.v,1666148802,verilog,,E:/Electrology Course/Vivado/EST2503/lab2_2_seg_dynamic/lab2_2_seg_dynamic.srcs/sim_1/new/tb_seg_dynamic.v,,seg_dynamic,,,,,,,,

@@ -1,6 +1,0 @@
-INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Electrology Course/Vivado/EST2503/lab2_1_seg_static_pro/lab2_1_seg_static_pro.srcs/sources_1/new/seg_static_pro.v" into library xil_defaultlib
-INFO: [VRFC 10-311] analyzing module seg_static_pro
-INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Electrology Course/Vivado/EST2503/lab2_1_seg_static_pro/lab2_1_seg_static_pro.srcs/sim_1/new/tb_seg_static_pro.v" into library xil_defaultlib
-INFO: [VRFC 10-311] analyzing module tb_seg_static_pro
-INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Electrology Course/Vivado/EST2503/lab2_1_seg_static_pro/lab2_1_seg_static_pro.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
-INFO: [VRFC 10-311] analyzing module glbl
