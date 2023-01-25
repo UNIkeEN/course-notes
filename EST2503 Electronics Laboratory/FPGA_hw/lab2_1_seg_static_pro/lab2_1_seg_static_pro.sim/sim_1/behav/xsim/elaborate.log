@@ -1,0 +1,14 @@
+Vivado Simulator 2017.3
+Copyright 1986-1999, 2001-2016 Xilinx, Inc. All Rights Reserved.
+Running: D:/Xilinx/Vivado/2017.3/bin/unwrapped/win64.o/xelab.exe -wto a1b448b365704defb7b883b1f2b27a2f --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot tb_seg_static_pro_behav xil_defaultlib.tb_seg_static_pro xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+WARNING: [XSIM 43-4099] "E:/Electrology Course/Vivado/EST2503/lab2_1_seg_static_pro/lab2_1_seg_static_pro.srcs/sources_1/new/seg_static_pro.v" Line 2. Module seg_static_pro(CNT_MAX=25'b011000) doesn't have a timescale but at least one module in design has a timescale.
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.seg_static_pro(CNT_MAX=25'b01100...
+Compiling module xil_defaultlib.tb_seg_static_pro
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot tb_seg_static_pro_behav

@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2017.3 (64-bit)
+# SW Build 2018833 on Wed Oct  4 19:58:22 MDT 2017
+# IP Build 2016188 on Wed Oct  4 21:52:56 MDT 2017
+# Start of session at: Mon Oct 24 11:19:44 2022
+# Process ID: 31800
+# Current directory: E:/Electrology Course/Vivado/EST2503/lab2_2_seg_dynamic/lab2_2_seg_dynamic.runs/impl_1
+# Command line: vivado.exe -log seg_dynamic.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source seg_dynamic.tcl -notrace
+# Log file: E:/Electrology Course/Vivado/EST2503/lab2_2_seg_dynamic/lab2_2_seg_dynamic.runs/impl_1/seg_dynamic.vdi
+# Journal file: E:/Electrology Course/Vivado/EST2503/lab2_2_seg_dynamic/lab2_2_seg_dynamic.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source seg_dynamic.tcl -notrace

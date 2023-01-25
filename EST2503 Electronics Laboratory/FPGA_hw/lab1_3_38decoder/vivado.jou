@@ -1,0 +1,15 @@
+#-----------------------------------------------------------
+# Vivado v2017.3 (64-bit)
+# SW Build 2018833 on Wed Oct  4 19:58:22 MDT 2017
+# IP Build 2016188 on Wed Oct  4 21:52:56 MDT 2017
+# Start of session at: Sun Oct  9 18:27:36 2022
+# Process ID: 29080
+# Current directory: E:/Electrology Course/Vivado/EST2503/lab1_3_38decoder
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent37136 E:\Electrology Course\Vivado\EST2503\lab1_3_38decoder\lab1_3_38decoder.xpr
+# Log file: E:/Electrology Course/Vivado/EST2503/lab1_3_38decoder/vivado.log
+# Journal file: E:/Electrology Course/Vivado/EST2503/lab1_3_38decoder\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project {E:/Electrology Course/Vivado/EST2503/lab1_3_38decoder/lab1_3_38decoder.xpr}
+update_compile_order -fileset sources_1
+synth_design -rtl -name rtl_1
