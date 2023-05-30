@@ -1,0 +1,15 @@
+.
+├── Copy
+│   ├── Copy.c          # source file of Copy
+│   └── test.py         # script to test the Copy program
+├── Makefile            # Makefile that makes all the executables out
+├── Matrix
+│   ├── data.in
+│   ├── multi.c         # source file of multi-thread matrix multiplication
+│   └── single.c        # source file of single-thread matrix multiplication
+├── Prj1README
+├── report.pdf          # report
+├── Shell
+│   ├── shell.c         # source file of server-mode shell(satisfy advanced requirements)
+│   └── shell_local.c   # source file of local-mode shell(satisfy basic requirements)
+└── typescript.md       # test runs
