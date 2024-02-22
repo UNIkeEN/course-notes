@@ -17,3 +17,9 @@ Here are some notes, course projects, and materials from my undergraduate studie
 * CS3328 Cloud Computing Technology 云计算技术 by Prof. Chao Li（李超 教授）
 * EST2503 Electronics Laboratory 电子技术实验 by Teacher Shan Liu（刘珊 助理实验师）	
 * PHY1252 University Physics (A) II 大学物理（A2） by Prof. Dangbo Liu（刘当波 副教授）
+
+完整克隆此仓库请使用：
+
+```bash
+git clone git@github.com:UNIkeEN/course-notes.git --recursive
+```
