@@ -1,3 +1,9 @@
 [submodule "CS2303_Project Workshop of Operating System/A-Simple-File-System"]
 	path = CS2303_Project Workshop of Operating System/A-Simple-File-System
 	url = https://github.com/UNIkeEN/A-Simple-File-System.git
+[submodule "CS3310_Computer Graphics/ray-tracer"]
+	path = CS3310_Computer Graphics/ray-tracer
+	url = https://github.com/UNIkeEN/ray-tracer.git
+[submodule "CS3310_Computer Graphics/AAGaussian"]
+	path = CS3310_Computer Graphics/AAGaussian
+	url = https://github.com/UNIkeEN/AAGaussian.git
