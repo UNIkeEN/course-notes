@@ -14,6 +14,7 @@ Here are some notes, course projects, and materials from my undergraduate studie
 * CS2309 Problem solving and Practice 问题求解与实践 by Prof. Yutin Chen（陈雨亭 副教授）
 * CS2310 Modern Operating Systems 现代操作系统 by Prof. Fan Wu（吴帆 教授）
 * CS3317 Artificial Intelligence 人工智能（B类） by Prof. Yang Yang（杨旸 教授）and Prof. Weilong Zheng（郑伟龙 副教授）
+* CS3310 Computer Graphics 计算机图形学 by Prof. Bin Sheng（盛斌 教授）
 * CS3328 Cloud Computing Technology 云计算技术 by Prof. Chao Li（李超 教授）
 * EST2503 Electronics Laboratory 电子技术实验 by Teacher Shan Liu（刘珊 助理实验师）	
 * PHY1252 University Physics (A) II 大学物理（A2） by Prof. Dangbo Liu（刘当波 副教授）
