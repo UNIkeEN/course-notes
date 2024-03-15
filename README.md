@@ -24,3 +24,8 @@ Here are some notes, course projects, and materials from my undergraduate studie
 ```bash
 git clone git@github.com:UNIkeEN/course-notes.git --recursive
 ```
+
+## 注意事项
+
+* 本项目仅供相关同学参考，请遵守相关课程的学术诚信要求。
+* 请不要将本项目内容上传至其他公开资料分享站点。
