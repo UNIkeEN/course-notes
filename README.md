@@ -13,9 +13,11 @@ Here are some notes, course projects, and materials from my undergraduate studie
 * CS2308 Algorithm and Complexity 算法与复杂性 by Prof. Qingsheng Ren（任庆生 副教授）
 * CS2309 Problem solving and Practice 问题求解与实践 by Prof. Yutin Chen（陈雨亭 副教授）
 * CS2310 Modern Operating Systems 现代操作系统 by Prof. Fan Wu（吴帆 教授）
+* CS3308 Machine Learning 机器学习 by Prof. Shikui Tu（涂仕奎 副教授）
 * CS3310 Computer Graphics 计算机图形学 by Prof. Bin Sheng（盛斌 教授）and Prof. Ye Pan（潘晔 副教授）
 * CS3317 Artificial Intelligence 人工智能（B类） by Prof. Yang Yang（杨旸 教授）and Prof. Weilong Zheng（郑伟龙 副教授）
 * CS3328 Cloud Computing Technology 云计算技术 by Prof. Chao Li（李超 教授）
+* CS3511 Science and Technology Innovation (Part 4-I) 工程实践与科技创新 Ⅳ-I by Prof. Bin Sheng（盛斌 教授）and Researcher Qinya Li（李沁雅 助理研究员）
 * CS3512 Science and Technology Innovation (Part 3-E) 工程实践与科技创新 Ⅲ-E by Prof. Zhenzhe Zheng（郑臻哲 副教授）
 * EST2501 Digital Electronics 数字电子技术 by Prof. Peilin Liu（刘佩林 教授）
 * EST2503 Electronics Laboratory 电子技术实验 by Teacher Shan Liu（刘珊 助理实验师）	
