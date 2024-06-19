@@ -7,9 +7,9 @@
 [submodule "CS3310_Computer Graphics/AAGaussian"]
 	path = CS3310_Computer Graphics/AAGaussian
 	url = https://github.com/UNIkeEN/AAGaussian.git
-[submodule "CS3308_Machine Learning/CS3308-ML-Project"]
-	path = CS3308_Machine Learning/CS3308-ML-Project
-	url = https://github.com/UNIkeEN/CS3308-ML-Project.git
 [submodule "CS3511_Science and Technology Innovation (Part 4-I)/CS3511-Federated-Learning"]
 	path = CS3511_Science and Technology Innovation (Part 4-I)/CS3511-Federated-Learning
 	url = https://github.com/UNIkeEN/CS3511-Federated-Learning.git
+[submodule "CS3308_Machine Learning/CS3308-ML-Project"]
+	path = CS3308_Machine Learning/CS3308-ML-Project
+	url = https://github.com/UNIkeEN/CS3308-ML-Project.git
