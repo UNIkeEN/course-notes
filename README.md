@@ -35,8 +35,8 @@ git clone git@github.com:UNIkeEN/course-notes.git --recursive
 ### 2024 Spring
 
 * [CS3308 Machine Learning 机器学习](./CS3308_Machine%20Learning/) by 涂仕奎老师
-* [CS3511 Science and Technology Innovation (Part 4-I) 工程实践与科技创新 Ⅳ-I](./CS3511_Science%20and%20Technology%20Innovation%20Part%204-I/) by 盛斌、李沁雅老师
-* [CS3512 Science and Technology Innovation (Part 3-E) 工程实践与科技创新 Ⅲ-E](./CS3512_Science%20and%20Technology%20Innovation%20Part%203-E/) by 郑臻哲老师
+* [CS3511 Science and Technology Innovation (Part 4-I) 工程实践与科技创新 Ⅳ-I](./CS3511_Science%20and%20Technology%20Innovation%20(Part%204-I)/) by 盛斌、李沁雅老师
+* [CS3512 Science and Technology Innovation (Part 3-E) 工程实践与科技创新 Ⅲ-E](./CS3512_Science%20and%20Technology%20Innovation%20(Part%203-E)/) by 郑臻哲老师
 
 ## 注意事项
 
