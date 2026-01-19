@@ -38,6 +38,12 @@ git clone git@github.com:UNIkeEN/course-notes.git --recursive
 * [CS3511 Science and Technology Innovation (Part 4-I) 工程实践与科技创新 Ⅳ-I](./CS3511_Science%20and%20Technology%20Innovation%20(Part%204-I)/) by 盛斌、李沁雅老师
 * [CS3512 Science and Technology Innovation (Part 3-E) 工程实践与科技创新 Ⅲ-E](./CS3512_Science%20and%20Technology%20Innovation%20(Part%203-E)/) by 郑臻哲老师
 
+## 研究生阶段
+
+### 2025 Fall
+
+* [CS7345 AI Computing Systems 智能计算系统](./CS7345_AI%20Computing%20Systems/) by 赵涵老师
+
 ## 注意事项
 
 * 本项目仅供相关同学参考，请遵守相关课程的学术诚信要求。
