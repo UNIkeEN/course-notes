@@ -42,6 +42,7 @@ git clone git@github.com:UNIkeEN/course-notes.git --recursive
 
 ### 2025 Fall
 
+* [CS7304H Statistical Learning Theory and Methods 统计学习理论与方法](./CS7304H_Statistical%20Learning%20Theory%20and%20Methods/) by 张丽清老师
 * [CS7345 AI Computing Systems 智能计算系统](./CS7345_AI%20Computing%20Systems/) by 赵涵老师
 
 ## 注意事项
